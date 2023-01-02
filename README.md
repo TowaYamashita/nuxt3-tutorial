@@ -2,7 +2,7 @@
 - [x] エラーハンドリング
 - [x] テレポート
 - [x] コンポーネント
-- [ ] コンポーザブル
+- [x] コンポーザブル
 - [ ] useAsyncData
 - [ ] useCookies
 - [ ] useFetch
