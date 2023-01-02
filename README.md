@@ -3,7 +3,7 @@
 - [x] テレポート
 - [x] コンポーネント
 - [x] コンポーザブル
-- [ ] useAsyncData
+- [x] useAsyncData
 - [ ] useCookies
 - [ ] useFetch
 - [ ] useState
