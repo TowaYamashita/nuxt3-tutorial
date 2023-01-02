@@ -6,7 +6,7 @@
 - [x] useAsyncData
 - [x] useCookies
 - [x] useFetch
-- [ ] useState
+- [x] useState
 - [ ] レイアウト
 - [ ] NuxtLink
 - [ ] ページ
