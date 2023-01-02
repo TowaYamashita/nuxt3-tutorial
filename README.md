@@ -5,7 +5,7 @@
 - [x] コンポーザブル
 - [x] useAsyncData
 - [x] useCookies
-- [ ] useFetch
+- [x] useFetch
 - [ ] useState
 - [ ] レイアウト
 - [ ] NuxtLink
