@@ -1,7 +1,7 @@
 # nuxt3-tutorial
 - [x] エラーハンドリング
 - [x] テレポート
-- [ ] コンポーネント
+- [x] コンポーネント
 - [ ] コンポーザブル
 - [ ] useAsyncData
 - [ ] useCookies
