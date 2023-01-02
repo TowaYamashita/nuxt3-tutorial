@@ -4,7 +4,7 @@
 - [x] コンポーネント
 - [x] コンポーザブル
 - [x] useAsyncData
-- [ ] useCookies
+- [x] useCookies
 - [ ] useFetch
 - [ ] useState
 - [ ] レイアウト
