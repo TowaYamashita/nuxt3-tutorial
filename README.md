@@ -8,5 +8,5 @@
 - [x] useFetch
 - [x] useState
 - [x] レイアウト
-- [ ] NuxtLink
+- [x] NuxtLink
 - [ ] ページ
