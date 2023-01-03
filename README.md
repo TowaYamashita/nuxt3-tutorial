@@ -9,4 +9,4 @@
 - [x] useState
 - [x] レイアウト
 - [x] NuxtLink
-- [ ] ページ
+- [x] ページ
