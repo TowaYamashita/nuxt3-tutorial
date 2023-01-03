@@ -7,6 +7,6 @@
 - [x] useCookies
 - [x] useFetch
 - [x] useState
-- [ ] レイアウト
+- [x] レイアウト
 - [ ] NuxtLink
 - [ ] ページ
